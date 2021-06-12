@@ -4,7 +4,7 @@ A simple sudoku solver built in rust.
 ## Building and Running 
 ```
 cargo build
- ./target/debug/sudoku_solver < board
+./target/debug/sudoku_solver < board
 ```
 
 
